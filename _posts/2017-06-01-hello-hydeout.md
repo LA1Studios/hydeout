@@ -15,7 +15,7 @@ to Disqus and Google Analytics (and is only loaded if you provide configuration
 variables).
 
 Hydeout makes heavy use of Flexbox in its CSS. If Flexbox is not available,
-the CSS degrades into a single column layout.
+the CSS degrades into a single column ^1 layout.
 
 ### Customization
 
